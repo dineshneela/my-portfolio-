@@ -1,0 +1,40 @@
+h1{
+    color:#1111fa;
+
+    padding-left: 10px;
+}
+*{
+    border: thin;
+   
+}
+
+.header *{ 
+    
+    padding: 20px;
+}
+
+.footer{
+   margin-right: 20px;
+   padding: 30px;
+}
+.menu{
+    justify-content: safe;
+    font-style: oblique;
+   
+    padding-left: 10px;
+ }
+.description{
+    font-style: italic;
+margin-left: 40px;
+padding: 50px;
+}
+.font{
+   color: #11ff11;
+    font-family: cursive;
+}
+a:link{
+    color:#11ffff
+}
+a:visited{
+    color:#ffff11
+}
